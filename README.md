@@ -17,4 +17,4 @@ Get ready before tutorial:
 
 [[Preparation]](https://github.com/CameraIA/microct_skimage/preparation.md)
 
-[[Issues]]](https://github.com/CameraIA/microct_skimage/issues)
+[[Issues]](https://github.com/CameraIA/microct_skimage/issues)
