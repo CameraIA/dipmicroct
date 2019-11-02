@@ -15,5 +15,6 @@ Check these tutorials on Thu, **Nov 7th Building 15, Room 253**
 Get ready before tutorial:
 --------------------------
 
-[[Preparation]](https://github.com/CameraIA/microct_skimage/preparation.md)  
-\[[Issues]]](https://github.com/CameraIA/microct_skimage/issues\)
+[[Preparation]](https://github.com/CameraIA/microct_skimage/preparation.md)
+
+[[Issues]]](https://github.com/CameraIA/microct_skimage/issues)
