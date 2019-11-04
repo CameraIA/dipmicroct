@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# huge data from Dr. Gouillart's tutorial.
+# Available at: <http://emmanuelle.github.io/segmentation-of-3-d-tomography-images-with-python-and-scikit-image.html>
+data/Al8Cu_1000_g13_t4_200_250.vol
