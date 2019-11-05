@@ -3,7 +3,7 @@ import numpy as np
 
 from ipywidgets import interact
 from mpl_toolkits.mplot3d.art3d import Poly3DCollection
-from skimage import exposure, io, measure
+from skimage import measure
 
 
 def show_plane(axis, plane, cmap="gray", title=None):
