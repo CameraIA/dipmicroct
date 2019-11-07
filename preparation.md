@@ -52,7 +52,7 @@ We may make editorial corrections to the material until the day before the works
 Test your setup
 ---------------
 
-Please switch into the repository you downloaded in the previous step, and run `python check_setup.py` to validate your installation. Click [[check_setup.py]](https://github.com/CameraIA/microct_skimage/check_setup.py) to locate the file.
+Please switch into the repository you downloaded in the previous step, and run `python check_setup.py` to validate your installation. Click [[check_setup.py]](https://github.com/CameraIA/microct_skimage/blob/master/check_setup.py) to locate the file.
 
 On my computer, the previous command results in:
 
