@@ -14,3 +14,6 @@ dependencies:
   - jupyter_client >= 5.1.0
   - pandas >= 0.20.3
   - widgetsnbextension >= 3.5.1
+  - dask >= 2.0
+  - graphviz
+  - python-graphviz 

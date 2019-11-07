@@ -107,3 +107,10 @@ venv.bak/
 # huge data from TomoBank challenge.
 # Available at <https://tomobank.readthedocs.io/en/latest/source/phantom/docs.phantom.foams.html#challenge>.
 data/phantom_00018.h5
+data/phantom_00018.npy
+
+# cache files
+cache/*
+
+# reconstruction files
+data/recons.py
