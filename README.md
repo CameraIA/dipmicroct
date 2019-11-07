@@ -1,9 +1,9 @@
-Microct analysis with skimage
-=============================
+Microct image analysis in python
+================================
 
 What you need to know as soon as you acquire and reconstruct your microct
 
-CAMERA Tomography [[Workshop 2019]](http://microct.lbl.gov/cameratomo2019)
+CAMERA Tomography [Workshop 2019](http://microct.lbl.gov/cameratomo2019)
 --------------------------------------------------------------------------
 
 Check these tutorials on Thu, **Nov 7th Building 15, Room 253**
