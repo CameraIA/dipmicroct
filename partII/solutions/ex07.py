@@ -3,6 +3,6 @@ labeled = label(binary.astype('int'),connectivity=2)
 print(np.max(labeled))
 
 def slicer(z):
-    plt.imshow(labeled[z,::downsample,::downsample], cmap='rainbow')
+    plt.imshow(labeled[z,::downsample,::downsample], cmap='rainbow',vmin=0,vmax=255)
 
 interact(slicer, z=IntSlider(min=0, max=len(img), step=1, value=68));
