@@ -19,3 +19,5 @@ Check these tutorials on Thu, **Nov 7th Building 15, Room 253**
 Get ready before tutorial:
 --------------------------
 [[Preparation]](https://github.com/CameraIA/microct_skimage/blob/master/preparation.md)  [[Issues]](https://github.com/CameraIA/microct_skimage/issues)
+
+Open it on Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CameraIA/microct_skimage/master)
