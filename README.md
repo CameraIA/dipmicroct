@@ -12,9 +12,9 @@ Check these tutorials on Thu, **Nov 7th Building 15, Room 253**
 
 -	15:30h Dani Ushizima, MicroCT analysis using open software [(part II)](https://github.com/CameraIA/microct_skimage/tree/master/partII) 
   
-    - [[Google Colaboratory - lesson01]](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
+    - [[Google Colaboratory - Part II - lesson01]](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
     
-    - [[Google Colaboratory - lesson02]](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
+    - [[Google Colaboratory - Part II - lesson02]](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
 
 Get ready before tutorial:
 --------------------------
